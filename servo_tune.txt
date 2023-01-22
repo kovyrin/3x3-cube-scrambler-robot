@@ -1,0 +1,19 @@
+50 PWM frequency
+0 PWM count minimum
+600 PWM count maximum
+3 Right Grip PWM port
+2 Right Turn PWM port
+1 Left Grip PWM port
+0 Left Turn PWM port
+110 Right turn minus 90 degrees
+240 Right turn 0 degrees
+370 Right turn 90 degrees
+300 Right grip closed
+380 Right grip open
+320 Right grip cube load
+475 Left turn minus 90 degrees
+345 Left turn 0 degrees
+215 Left turn 90 degrees
+320 Left grip closed
+400 Left grip open
+335 Left grip cube load
